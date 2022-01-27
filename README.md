@@ -1,4 +1,5 @@
-# MyHomeLight
+# Sistema automatizado de seguridad del hogar y monitoreo energético del mismo basado en Internet Of Things (IoT)
+# MYHOMELIGHT
 Sistema automatizado de seguridad del hogar y monitoreo energétio del mismo basado en Internet Of Things (IOT)
 Implementación del Proyecto:
 En este servicio de la nube de GitHub se encuentran dos carpetas: Archivos de Proteus y Archivos de Microchip Studio.
